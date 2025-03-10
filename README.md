@@ -1,2 +1,2 @@
 # COMPUTER_NETWORKS
-cisco packet tracer
+ Basic Office network (50 node topology) using cisco packet tracer
